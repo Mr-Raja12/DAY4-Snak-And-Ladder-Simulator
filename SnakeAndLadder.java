@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class SnakeAndLadder {
     public static void main(String[] args) {
         int startPosition = 0;
@@ -31,7 +32,7 @@ public class SnakeAndLadder {
                 if (startPosition < 0)
                     startPosition = 0;
         }
-        System.out.println("Player " + Player_Name + " On Position :" + startPosition);
+        System.out.println("Player " + Player_Name + "On Position :" + startPosition);
 
 
     }
