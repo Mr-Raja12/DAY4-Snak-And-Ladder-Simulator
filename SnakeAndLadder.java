@@ -1,5 +1,6 @@
 public class SnakeAndLadder {
 	public static void main(String[] args) {
-		System.out.println("Welcome To Snake And Ladder Program");
-	}
+		        int startPosition = 0;
+		        System.out.println("Starting Position is :" + startPosition);
+		    }
 }
